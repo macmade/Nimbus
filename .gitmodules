@@ -1,0 +1,6 @@
+[submodule "PWR/XS.pretty"]
+	path = PWR/XS.pretty
+	url = https://github.com/macmade/XS.pretty.git
+[submodule "Nimbus/XS.pretty"]
+	path = Nimbus/XS.pretty
+	url = https://github.com/macmade/XS.pretty
